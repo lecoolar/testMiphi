@@ -1,0 +1,35 @@
+Id: 1
+Author: автор1
+PublishingHouse: издатель1
+Section: раздел1
+IsAvailability: True
+SubjectiveAssessment: оценка1
+
+Id: 2
+Author: автор2
+PublishingHouse: издатель2
+Section: раздел2
+IsAvailability: False
+SubjectiveAssessment: оценка2
+
+Id: 3
+Author: автор3
+PublishingHouse: издатель3
+Section: раздел3
+IsAvailability: True
+SubjectiveAssessment: оценка3
+
+Id: 4
+Author: автор4
+PublishingHouse: издатель4
+Section: раздел4
+IsAvailability: False
+SubjectiveAssessment: оценка4
+
+Id: 5
+Author: автор5
+PublishingHouse: издатель5
+Section: раздел5
+IsAvailability: True
+SubjectiveAssessment: оценка5
+
